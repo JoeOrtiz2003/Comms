@@ -1,7 +1,7 @@
 const sheetId = '1srwCRcCf_grbInfDSURVzXXRqIqxQ6_IIPG-4_gnSY8';
 let sheetName = 'WWCD';
 
-const totalCards = 3; // number of cards
+const totalCards = 5; // number of cards
 
 function generateQueries(count) {
   const baseColumns = ["B", "C", "D", "E", "G"];
